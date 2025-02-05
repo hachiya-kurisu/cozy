@@ -19,7 +19,7 @@ fmt:
 	gofmt -s -w *.go cmd/*/main.go
 
 README.md: README.gmi
-	sisyphus -f markdown <README.gmi >README.md
+	sisyphus -a "." -f markdown <README.gmi >README.md
 
 doc: README.md
 

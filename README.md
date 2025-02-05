@@ -9,10 +9,10 @@ $ go install blekksprut.net/cozy/cmd/cozy@latest
 $ cozy
 ```
 
-[cozy nex](cozy-nex.png)
+![cozy nex](cozy-nex.png)
 
 ## on the horizon
 
-* client certificates
-* improve the color schemes
-* better image support (sixel/kitty)
+* ａｅｓｔｈｅｔｉｃｓ
+* gemini client certificates
+* kitty/sixel images

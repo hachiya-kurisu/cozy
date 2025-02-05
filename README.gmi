@@ -13,6 +13,6 @@ $ cozy
 
 ## on the horizon
 
-* client certificates
-* improve the color schemes
-* better image support (sixel/kitty)
+* ａｅｓｔｈｅｔｉｃｓ
+* gemini client certificates
+* kitty/sixel images
