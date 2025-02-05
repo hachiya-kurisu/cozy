@@ -1,0 +1,85 @@
+# cozy
+
+surf the small web – a gemini, spartan and nex browser
+
+## cozy navigation
+
+* ctrl-s to visit a spartan space
+* ctrl-g to visit a gemini capsule
+* ctrl-n to visit a nex station
+* ctrl-e to edit the current url
+* ctrl-l to follow a link using a shortcut
+* ctrl-r to refresh the current page
+* ctrl-y to bookmark the current page
+* ctrl-o to show bookmarks
+* ctrl-h to get back to this page 🙃
+* shift-left to go back to the previous page (no forward!)
+* . to cancel a request
+
+## cozy arguments
+
+```ksh
+$ cozy                  # get cozy
+$ cozy blekksprut.net   # head straight to blekksprut.net
+$ cozy -b               # edit bookmarks in your editor
+$ cozy -t night         # nighttime *all the time*
+```
+
+## cozy protocols
+
+=> gemini://geminiprotocol.net/ the gemini protocol
+=> nex://nightfall.city/nex/ nex (nightfall express)
+=> spartan://spartan.mozz.us spartan (💪)
+
+## cozy bookmarks
+
+bookmarks are stored as a regular gemtext file
+new bookmarks are added as new link lines at the end of the file
+
+```
+# cozy bookmarks
+
+=> gemini://bbs.geminispace.org/
+```
+
+the bookmarks file can be customized to your liking outside of cozy
+
+## cozy background
+
+cozy began as a very austere nex browser and got cozier from there
+
+## cozy capsules and stations
+
+=> gemini://blekksprut.net/ my code capsule
+=> gemini://manatsu.town/ 真夏／manatsu
+=> gemini://higeki.jp/ my personal capsule (photography / music / art)
+
+=> nex://higeki.jp/ 悲劇駅／higeki station
+=> nex://manatsu.town/ 真夏駅／manatsu station
+
+gemini capsules are also available through spartan 💪
+
+## cozy arrows
+
+> Ich will nicht anklagen, ich will nicht einmal die Ankläger anklagen. Wegsehen sei meine einzige Verneinung! Und, Alles in Allem und Großen: ich will irgendwann einmal nur noch ein Ja-sagender sein!
+> — Friedrich Nietzsche: Die fröhliche Wissenschaft, Aphorismus 276
+
+> いつでも今日が、いちばん楽しい日
+> — あずまきよひこ、『よつばと！』のキャッチコピー
+
+世の中の恐怖や奇跡は美事である。
+
+=> gemini://higeki.jp/yoin 悲劇の余韻
+
+## cozy alcohol
+
+* 芋焼酎
+
+## cozy closing thoughts
+
+the small web is fun and all, but real life is infinitely more captivating, stimulating and intriguing.
+
+if you appreciate the lush glow of cozy, feel free to ping me
+
+=> mailto:kurisu@higeki.jp email
+=> ircs://tilde.chat/#cozy irc
