@@ -9,6 +9,8 @@ $ go install blekksprut.net/cozy/cmd/cozy@latest
 $ cozy
 ```
 
+[cozy nex](cozy-nex.png)
+
 ## on the horizon
 
 * client certificates
