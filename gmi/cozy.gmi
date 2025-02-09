@@ -62,10 +62,10 @@ cozy began as a very austere nex browser and got cozier from there
 ## cozy arrows
 
 > Ich will nicht anklagen, ich will nicht einmal die Ankläger anklagen. Wegsehen sei meine einzige Verneinung! Und, Alles in Allem und Großen: ich will irgendwann einmal nur noch ein Ja-sagender sein!
-> — Friedrich Nietzsche: Die fröhliche Wissenschaft, Aphorismus 276
+ー Friedrich Nietzsche: Die fröhliche Wissenschaft, Aphorismus 276
 
 > いつでも今日が、いちばん楽しい日
-> — あずまきよひこ、『よつばと！』のキャッチコピー
+ー あずまきよひこ、『よつばと！』のキャッチコピー
 
 世の中の恐怖や奇跡は美事である。
 
