@@ -69,7 +69,7 @@ cozy began as a very austere nex browser and got cozier from there
 
 世の中の恐怖や奇跡は美事である。
 
-=> gemini://higeki.jp/yoin 悲劇の余韻
+=> gemini://higeki.jp/yoin.gmi 悲劇の余韻
 
 ## cozy alcohol
 
