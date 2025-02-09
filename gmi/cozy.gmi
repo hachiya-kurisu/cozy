@@ -48,16 +48,16 @@ the bookmarks file can be customized to your liking outside of cozy
 
 cozy began as a very austere nex browser and got cozier from there
 
-## cozy capsules and stations
+## cozy capsules, spaces and stations
 
 => gemini://blekksprut.net/ my code capsule
-=> gemini://manatsu.town/ 真夏／manatsu
-=> gemini://higeki.jp/ my personal capsule (photography / music / art)
 
+=> gemini://higeki.jp/ my personal gemini capsule
+=> spartan://higeki.jp/ my person spartan space
 => nex://higeki.jp/ 悲劇駅／higeki station
-=> nex://manatsu.town/ 真夏駅／manatsu station
 
-gemini capsules are also available through spartan 💪
+=> gemini://manatsu.town/ 真夏／manatsu
+=> nex://manatsu.town/ 真夏駅／manatsu station
 
 ## cozy arrows
 
