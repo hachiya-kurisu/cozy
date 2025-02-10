@@ -490,7 +490,7 @@ func (c *Cozy) Gemini(ctx context.Context, u *url.URL) error {
 
 	switch r.Status / 10 {
 	case 1:
-		return c.RequestInput(u, r.Header, r.Status == 11)
+		return c.RequestInput(r.URL, r.Header, r.Status == 11)
 	case 2:
 		delta := time.Since(rt).Round(time.Millisecond)
 		return c.Success(r.URL, r, r.Header, delta.String())

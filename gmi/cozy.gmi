@@ -46,7 +46,7 @@ the bookmarks file can be customized to your liking outside of cozy
 
 ## cozy background
 
-cozy began as a very austere nex browser and got cozier from there
+cozy began as an austere nex browser, but got cozier from there
 
 ## cozy capsules, spaces and stations
 
