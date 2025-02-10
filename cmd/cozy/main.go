@@ -729,9 +729,15 @@ func edit(path string) {
 }
 
 func main() {
+	v := flag.Bool("v", false, "show version and exit")
 	b := flag.Bool("b", false, "edit bookmarks")
 	t := flag.String("t", "", "set a theme (night/day)")
 	flag.Parse()
+
+	if *v {
+		fmt.Printf("%s %s\n", os.Args[0], cozy.Version)
+		os.Exit(0)
+	}
 
 	c := NewCozy(*t)
 	c.InitializeBookmarks()
