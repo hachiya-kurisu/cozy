@@ -7,12 +7,14 @@ surf the small web - a gemini, spartan and nex browser
 ```
 $ go install blekksprut.net/cozy/cmd/cozy@latest
 $ cozy
+$ cozy nex://manatsu.town/ # head directly to an url
+$ cozy -t day # always use the day theme
 ```
 
 ![cozy nex](cozy-nex.png)
 
 ## on the horizon
 
-* ａｅｓｔｈｅｔｉｃｓ
 * gemini client certificates
-* kitty/sixel images
+* ａｅｓｔｈｅｔｉｃｓ
+* kitty/sixel images (?)
