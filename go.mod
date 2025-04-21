@@ -1,6 +1,6 @@
 module blekksprut.net/cozy
 
-go 1.23.4
+go 1.24.2
 
 require (
 	blekksprut.net/natto v0.2.0
