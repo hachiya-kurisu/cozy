@@ -18,3 +18,7 @@ $ cozy -t day # always use the day theme
 * gemini client certificates
 * ａｅｓｔｈｅｔｉｃｓ
 * kitty/sixel images (?)
+
+## author
+
+=> https://blekksprut.net/ 蜂谷栗栖
