@@ -21,4 +21,4 @@ $ cozy -t day # always use the day theme
 
 ## author
 
-[蜂谷栗栖](https://blekksprut.net/)
+[蜂谷栗栖](//blekksprut.net/)
